@@ -18,5 +18,7 @@
 
 .login-portal.layout .center-segment>.ui.container>.ui.segment {
     background: url(https://auth.digitalme.my/themes/v3/img/personal-landing-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
